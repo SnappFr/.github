@@ -1,0 +1,54 @@
+<div align="center">
+
+# Snapp'
+
+**Mobile & web application development agency based in Bordeaux, France**
+
+[![Website](https://img.shields.io/badge/Website-snapp.fr-blue?style=flat-square&logo=safari&logoColor=white)](https://www.snapp.fr)
+[![Location](https://img.shields.io/badge/Location-Bordeaux%2C%20France-red?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=78+Rue+Juda%C3%AFque+33000+Bordeaux)
+[![Experience](https://img.shields.io/badge/Experience-15%2B%20years-green?style=flat-square)]()
+
+</div>
+
+---
+
+## 🚀 What We Do
+
+We design and build **custom mobile and web applications** that help businesses embrace digital transformation — with a mobile-first approach and a strong focus on **eco-conscious development**.
+
+We are proud contributors to the open-source **[ecoCode](https://github.com/green-code-initiative)** project, helping developers identify and reduce the environmental impact of their code.
+
+## 🛠️ Our Expertise
+
+| Domain | Details |
+|--------|---------|
+| 📱 **Mobile** | React Native, native iOS & Android |
+| 🌐 **Web** | Modern SPAs, progressive web apps |
+| 🎨 **Design** | UX research, UI design, prototyping |
+| ⚙️ **Backend** | Architecture, APIs, cloud infrastructure |
+| 🌿 **Green Code** | Eco-design, performance optimization |
+
+## 🤝 They Trust Us
+
+Yves Rocher · Petit Bateau · Monoprix · Carrefour · Air France · E.Leclerc · B&B Hotels · Cetelem · Tesco
+
+## 📦 Open Source
+
+These repositories contain libraries and tools we built and shared with the community:
+
+| Repository | Description |
+|------------|-------------|
+| [react-native-image-base64](https://github.com/SnappFr/react-native-image-base64) | Convert images to base64 strings in React Native 🌄 |
+| [rails-value-object](https://github.com/SnappFr/rails-value-object) | Value object management for Rails Active Records |
+| [auth-proxy](https://github.com/SnappFr/auth-proxy) | Authentication, roles & permissions proxy for SPAs 📦 |
+| [event-logging](https://github.com/SnappFr/event-logging) | Event logging plugin for Rails applications |
+
+---
+
+<div align="center">
+
+**[snapp.fr](https://www.snapp.fr)** · Bordeaux, France
+
+*Making good use of the latest innovations — Faire bon usage des dernières innovations*
+
+</div>
