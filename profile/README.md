@@ -39,11 +39,11 @@ These repositories contain libraries and tools we built and shared with the comm
 
 | Repository | Description |
 |------------|-------------|
-| [react-native-image-base64](https://github.com/SnappFr/react-native-image-base64) | Convert images to base64 strings in React Native 🌄 |
-| [rails-value-object](https://github.com/SnappFr/rails-value-object) | Value object management for Rails Active Records |
-| [auth-proxy](https://github.com/SnappFr/auth-proxy) | Authentication, roles & permissions proxy for SPAs 📦 |
-| [event-logging](https://github.com/SnappFr/event-logging) | Event logging plugin for Rails applications |
 | [ovh-dns-manager](https://github.com/SnappFr/ovh-dns-manager) | CLI tool to manage OVH DNS zones efficiently 🌐 |
+| [react-native-image-base64](https://github.com/SnappFr/react-native-image-base64) | Convert images to base64 strings in React Native 🌄 *(archived)* |
+| [rails-value-object](https://github.com/SnappFr/rails-value-object) | Value object management for Rails Active Records *(archived)* |
+| [auth-proxy](https://github.com/SnappFr/auth-proxy) | Authentication, roles & permissions proxy for SPAs 📦 *(archived)* |
+| [event-logging](https://github.com/SnappFr/event-logging) | Event logging plugin for Rails applications *(archived)* |
 
 ---
 
