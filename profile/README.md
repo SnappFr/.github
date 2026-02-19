@@ -43,6 +43,7 @@ These repositories contain libraries and tools we built and shared with the comm
 | [rails-value-object](https://github.com/SnappFr/rails-value-object) | Value object management for Rails Active Records |
 | [auth-proxy](https://github.com/SnappFr/auth-proxy) | Authentication, roles & permissions proxy for SPAs 📦 |
 | [event-logging](https://github.com/SnappFr/event-logging) | Event logging plugin for Rails applications |
+| [ovh-dns-manager](https://github.com/SnappFr/ovh-dns-manager) | CLI tool to manage OVH DNS zones efficiently 🌐 |
 
 ---
 
