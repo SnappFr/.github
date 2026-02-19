@@ -16,7 +16,7 @@
 
 We design and build **custom mobile and web applications** that help businesses embrace digital transformation — with a mobile-first approach and a strong focus on **eco-conscious development**.
 
-We are proud contributors to the open-source **[ecoCode](https://github.com/green-code-initiative)** project, helping developers identify and reduce the environmental impact of their code.
+We founded the open-source **[ecoCode](https://github.com/green-code-initiative)** project, now maintained by the Green Code Initiative, helping developers identify and reduce the environmental impact of their code.
 
 ## 🛠️ Our Expertise
 
@@ -47,7 +47,7 @@ These repositories contain libraries and tools we built and shared with the comm
 
 <div align="center">
 
-**[snapp.fr](https://www.snapp.fr)** · Bordeaux, France
+**[snapp.fr](https://www.snapp.fr)** · Bordeaux, France · 📞 +33 5 47 74 52 50
 
 *Making good use of the latest innovations — Faire bon usage des dernières innovations*
 
