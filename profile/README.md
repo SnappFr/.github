@@ -22,10 +22,11 @@ We founded the open-source **[ecoCode](https://github.com/green-code-initiative)
 
 | Domain | Details |
 |--------|---------|
-| 📱 **Mobile** | React Native, native iOS & Android |
+| 📱 **Mobile** | Flutter, native iOS & Android |
 | 🌐 **Web** | Modern SPAs, progressive web apps |
 | 🎨 **Design** | UX research, UI design, prototyping |
 | ⚙️ **Backend** | Architecture, APIs, cloud infrastructure |
+| 🤖 **AI** | LLM integration, intelligent features, automation |
 | 🌿 **Green Code** | Eco-design, performance optimization |
 
 ## 🤝 They Trust Us
